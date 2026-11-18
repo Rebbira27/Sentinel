@@ -26,7 +26,7 @@ SentinelLab is an interactive blue team SOC (Security Operations Center) trainin
 *   Rebira Fufa - CTC-1672-26
 *   Bona Tesfa - CTC-441-26
 *   Rebbira Gizachew - CTC-790-26
-3. Development Guide
+##3. Development Guide
 
 To run this project locally, you will need Node.js and npm installed.
 
