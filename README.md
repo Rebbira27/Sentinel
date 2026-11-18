@@ -19,14 +19,14 @@ SentinelLab is an interactive blue team SOC (Security Operations Center) trainin
 *   **Core Platform Modules:** Includes a Log Analysis & Normalization Engine, Detection Rules Manager, Incident Investigation Workspace, Training & CTF Scenarios, and Incident Reporting.
 
 
-2. Team Information
+## 2. Team Information
 
 *   Olifen Mulatu - CTC-1456-26
 *   Yobsan Fufa - CTC-129-26
 *   Rebira Fufa - CTC-1672-26
 *   Bona Tesfa - CTC-441-26
 *   Rebbira Gizachew - CTC-790-26
-##3. Development Guide
+## 3. Development Guide
 
 To run this project locally, you will need Node.js and npm installed.
 
