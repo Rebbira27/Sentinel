@@ -32,7 +32,7 @@ To run this project locally, you will need Node.js and npm installed.
 
 ```bash
 # Clone the repository
-git clone https://github.com/Rebbira27/Sentinel
+git clone [https://github.com/Rebbira27/Sentinel]
 
 # Navigate into the directory
 cd sentinel
